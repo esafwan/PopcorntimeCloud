@@ -1,0 +1,39 @@
+{
+  "name": "Popcorn-Time",
+  "main": "app://host/index.html",
+  "version": "0.3.0",
+  "window": {
+    "title": "Popcorn Time",
+    "icon": "images/icon.png",
+    "toolbar": false,
+    "frame": false,
+    "width": 962,
+    "height": 600,
+    "min_width": 962,
+    "min_height": 600,
+    "resizable": true
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "dependencies": {
+    "clivas": "0.1.4",
+    "network-address": "0.0.4",
+    "ip": "0.3.0",
+    "node-uuid": "1.4.1",
+    "adm-zip": "0.4.4",
+    "numeral": "1.5.3",
+    "jschardet": "1.1.0",
+    "iconv-lite": "0.2.11",
+    "i18n": "0.4.1",
+    "moviedb": "0.1.1",
+    "emitter": "0.0.1",
+    "xmlrpc": "1.2.0",
+    "request": "2.34.0",
+    "peerflix": "0.1.6",
+    "cheerio": "0.13.1",
+    "express": "3.4.8",
+    "url": "0.7.9",
+    "socket.io": "0.9.16"
+  }
+}
