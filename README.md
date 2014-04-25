@@ -13,6 +13,6 @@ To allow any computer user an easy method of streaming movies and TV Shows from 
 
 
 ### Credits
-This project is the successor of the orginal Popcorn Time project that was taken down in March 14'.
+This project is a successor of the orginal Popcorn Time project that was taken down in March 14'.
 https://medium.com/p/93f890b8c9f4
 
