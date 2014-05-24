@@ -23,7 +23,7 @@ var locale = {
 		try{ words = JSON.parse(words) }catch(e){words = false}
 		
 		if(!words){
-			$.get('/locale/'+locale.language+'.json', function(json){
+			$.get('locale/'+locale.language+'.json', function(json){
 
 				try{
 					locale.words = JSON.parse(json);
