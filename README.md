@@ -1,7 +1,9 @@
-Popcorn Time
+Popcorn Time (Cloud)
 ===================
+This is clone of the popcorn Time official project. This fork has the urls updated to relative ones,
+So that it runs on any host including localhost server.
 
-Allow easily streaming from torrents, without any particular knowledge.
+Popcorn Time allow easily streaming from torrents, without any particular knowledge.
 
 
 ### The idea
